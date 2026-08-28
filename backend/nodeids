@@ -1,0 +1,10 @@
+[
+  "tests/test_api.py::test_get_events",
+  "tests/test_api.py::test_get_recommendations",
+  "tests/test_api.py::test_get_risks",
+  "tests/test_api.py::test_get_simulation",
+  "tests/test_api.py::test_get_state",
+  "tests/test_api.py::test_reset_simulation",
+  "tests/test_api.py::test_root_endpoint",
+  "tests/test_api.py::test_simulate_event_market_crash"
+]
